@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Wfs_DisableCompare",
+    "type": "magento-module",
+    "license": "MageryThemes-custom-license",
+    "homepage": "",
+    "description": "Wfs_DisableCompare extension can help you to disable compare functionality in Magento",
+    "authors": [
+    {
+        "name": "WebFlakeStudio",
+        "email": "webflakestudio@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

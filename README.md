@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Wfs_DisableCompare extension can help you to disable compare functionality in Magento
